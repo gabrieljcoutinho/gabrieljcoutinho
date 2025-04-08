@@ -3,7 +3,7 @@
 - 🔭 Procurando trabalho de Front-End
 - 🌱 Estudando React, Node.js
 - 😊 Pronome: ele/dele
-- 🏫 Graduando Ciência da Computação na Fiap
+- 🏫 Graduando Ciência da Computação na Fiap Paulista
 
 
 <p align="left">
