@@ -4,14 +4,22 @@
 - 🌱 Estudando React, Node.js
 - 😊 Pronome: ele/dele
 - 🏫 Graduando Ciência da Computação na Fiap
+
+<style>
+  img {
+    border: none;
+  }
+</style>
+
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
 </p>
+
 <div style="display: inline_block;">
   <br>
   <img align="center" alt="Gabriel - Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
