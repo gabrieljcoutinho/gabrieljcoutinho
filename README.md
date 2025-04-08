@@ -3,7 +3,7 @@
 - 🔭 IProcurando trabalho de Front-End
 - 🌱 Estudando React, Node.js
 - 😊 Pronuns: ele/dele
-- 🏫 Gruando Ciência da Computação na Fiap
+- 🏫 Graduando Ciência da Computação na Fiap
 
 <div>
   <a href="https://beacons.ai/gabrieljcoutinho">
