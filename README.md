@@ -5,12 +5,8 @@
 - 😊 Pronome: ele/dele
 - 🏫 Graduando Ciência da Computação na Fiap
 
-<div>
-  <a href="https://beacons.ai/gabrieljcoutinho">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=material)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=material)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=material)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=material)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block;">
   <br>
