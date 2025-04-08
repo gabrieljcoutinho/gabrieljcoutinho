@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://beacons.ai/gabrieljcoutinho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&langs_count=16&theme=radical"/>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=material)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=material)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 
@@ -28,5 +28,4 @@
 </div>
 
 #atualiza as informacoes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=material)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=material)](https://github.com/anuraghazra/github-readme-stats)
+
