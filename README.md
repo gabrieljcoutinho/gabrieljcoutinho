@@ -6,13 +6,13 @@
 - 🏫 Graduando Ciência da Computação na Fiap
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=tokyo_night" alt="Gabriel's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=tokyo_night" alt="Top Languages" />
-  </a>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p> 
 
 <div style="display: inline_block;">
   <br>
