@@ -5,8 +5,14 @@
 - 😊 Pronome: ele/dele
 - 🏫 Graduando Ciência da Computação na Fiap
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&theme=dracula&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
 
 <div style="display: inline_block;">
   <br>
