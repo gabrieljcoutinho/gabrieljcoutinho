@@ -7,12 +7,13 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=solarized_dark" alt="Gabriel's GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=solarized_dark" alt="Top Languages" />
+
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
-</p> 
+</p>
 
 <div style="display: inline_block;">
   <br>
