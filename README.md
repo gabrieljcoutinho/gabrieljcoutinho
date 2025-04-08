@@ -5,11 +5,6 @@
 - 😊 Pronome: ele/dele
 - 🏫 Graduando Ciência da Computação na Fiap
 
-<style>
-  img {
-    border: none;
-  }
-</style>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
