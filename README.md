@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel
 
-- 🔎 Procurando trabalho de Front-End  
+- 🔎 Procurando trabalho de Front-End React  
 - 📖 Estudando React, Node.js  
 - 😊 Pronome: ele/dele  
 - 🎓 Graduando Ciência da Computação na Fiap Paulista  
