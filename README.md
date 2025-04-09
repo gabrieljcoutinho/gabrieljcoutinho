@@ -3,8 +3,7 @@
 - 🔎 Procurando trabalho de Front-End
 - 📖 Estudando React, Node.js
 - 😊 Pronome: ele/dele
-- ![DreamiesBaysidehighschoolGIF](https://github.com/user-attachments/assets/b1f6ca38-8e27-4f7e-bcc2-98ec2d6631b7)
- Graduando Ciência da Computação na Fiap Paulista
+- 📖 Graduando Ciência da Computação na Fiap Paulista
 
 
 <p align="left">
