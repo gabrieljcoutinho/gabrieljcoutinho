@@ -10,7 +10,7 @@
 <p align="center">
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=11" alt="GitHub Stats"/>
   </a>
   
   <!-- Top Languages -->
