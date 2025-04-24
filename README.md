@@ -3,9 +3,9 @@
 - 📖 Estudando React, Node.js
 - 😊 Pronome: ele/dele
 -  🎓 Graduando Ciência da Computação na Fiap Paulista <br/>
-    <div style="display: flex; justify-content: center;">
-        <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=11" alt="GitHub Stats"/> </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula&langs_count=8&v=1" alt="Top Languages"/> </a>
+    <div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=11" alt="GitHub Stats"/> </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;"> <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula&langs_count=8&v=1" alt="Top Languages"/> </a>
     </div>
 
     <div style="display: inline_block;"><br>
