@@ -7,7 +7,7 @@
         <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; margin-right: 5px;"> 
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=40&v=40" alt="GitHub Stats" width="49%"/> </a>
         <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; margin-left: 5px;"> 
-            <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula&langs_count=8&v=1" alt="Top Languages" width="49%"/> </a>
+            <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula&langs_count=8&v=1" alt="Top Languages" width="49%"/> </a>
     </div>
 <br>
     <div style="display: inline_block;">
