@@ -3,9 +3,10 @@
 - 📖 Estudando React, Node.js
 - 😊 Pronome: ele/dele
 -  🎓 Graduando Ciência da Computação na Fiap Paulista <br/>
-    - <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=11" alt="GitHub Stats"/> </a>
+    - <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=11" alt="GitHub Stats"/> </a>
         <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula&langs_count=8&v=1" alt="Top Languages"/> </a>
-        </p>
+    </p>
 
         <div style="display: inline_block;"><br>
           <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
