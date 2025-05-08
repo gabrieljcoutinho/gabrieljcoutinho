@@ -10,10 +10,10 @@
             <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=dracula&langs_count=8&v=1" alt="Top Languages" width="49%"/> </a>
     </div>
 <br>
-    <div style="display: inline_block;">
+<!--     <div style="display: inline_block;">
     <img align="center" alt="Gabriel-HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;">
     <img align="center" alt="Gabriel-CSS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 10px;">
     <img align="center" alt="Gabriel-Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 10px;">
-</div>
+</div> -->
     <br/><br/>
     <div>
