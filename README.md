@@ -27,9 +27,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-![Snake animation](https://github.com/gabrieljcoutinho/gabrieljcoutinho/blob/output/github-contribution-grid-snake.svg)
-
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljcoutinho&repo=gabrieljcoutinho&theme=react)(https://github.com/gabrieljcoutinho/gabrieljcoutinho)
-
-###
 
