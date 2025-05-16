@@ -14,7 +14,8 @@
     <img align="center" alt="Gabriel-HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;">
     <img align="center" alt="Gabriel-CSS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 10px;">
     <img align="center" alt="Gabriel-Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 10px;">
-        <img align="center" alt="Gabriel-Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="margin-right: 10px;">
+    <img align="center" alt="Gabriel-Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="margin-right: 10px;">
+     <img align="center" alt="Gabriel-Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="margin-right: 10px;">
 </div>
     <br/><br/>
     <div>
