@@ -34,4 +34,3 @@
 </div>
 
 
-https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/b6d6bd1efce4370c2da07fcd47bc2254cd88729e/github-contribution-grid-snake.svg
