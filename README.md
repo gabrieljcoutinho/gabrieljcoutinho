@@ -37,6 +37,7 @@
 
 ---
 
-<!-- AQUI VEM A COBRINHA DOS COMMITS -->
+## 🐍 Snake com seus commits:
 
 ![snake gif](https://github.com/gabrieljcoutinho/gabrieljcoutinho/blob/output/github-contribution-grid-snake.svg)
+
