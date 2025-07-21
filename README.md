@@ -36,6 +36,4 @@
 </div>
 
 
-## 🐍 Snake com seus commits
-![snake gif](https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/github-contribution-grid-snake.svg)
 
