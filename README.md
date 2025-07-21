@@ -35,9 +35,5 @@
   <img src="https://camo.githubusercontent.com/8290ef49e85a94c2ae9f929badf5aa1007b74d20f3f465c9222205064147bfa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
 </div>
 
----
 
-## 🐍 Snake com seus commits:
-
-![snake gif](https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/github-contribution-grid-snake.svg)
 
