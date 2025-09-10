@@ -20,7 +20,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v5
         with:
-          github_user_name: gabrielflorentino
+          github_user_name: gabrieljcoutinho
           outputs: dist/snake.svg?palette=github-dark
 
       - name: push snake.svg to the output branch
