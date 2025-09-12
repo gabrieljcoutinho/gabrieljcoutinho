@@ -31,8 +31,6 @@
 
 
 
-  <img width="300" height="510" alt="Image" src="https://github.com/user-attachments/assets/9f3857f1-b0f1-411c-82fb-da2bfdc01fac" />
-
 </div>
 
 
