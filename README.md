@@ -7,15 +7,6 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrieljcoutinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=60" height="160" alt="GitHub stats" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabrieljcoutinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Top languages" />
-</div>
-
----
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -57,8 +48,8 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ## 📫 Contato
 
-- LinkedIn: *adicione seu link aqui*
-- Portfólio: *adicione seu link aqui*
+- LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
+- Portfólio: *[adicione seu link aqui](https://portofolio-gabriel.vercel.app/)*
 
 ---
 
