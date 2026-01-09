@@ -1,46 +1,65 @@
-<h2 align="center">Olá 👋! Bem-Vindo ao meu GitHub</h2>
+<h2 align="center">Olá 👋! Bem-vindo ao meu GitHub</h2>
 
-###
+<p align="center">
+Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formação, apaixonado por tecnologia, interfaces modernas e experiências interativas.  
+Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos voltados para desenvolvimento web e aplicações interativas.
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrieljcoutinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=60" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabrieljcoutinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph" />
-
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrieljcoutinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=60" height="160" alt="GitHub stats" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabrieljcoutinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Top languages" />
 </div>
 
-###
+---
+
+## 🚀 Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="json logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="json logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="json logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="json logo" />
-
-
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="JSON" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
 </div>
 
+---
+
+## 🛠️ Stack & Ecossistema
+
 <div align="left">
-  <br>
-  <img src="https://camo.githubusercontent.com/8a6912ffd6e3bba0d696c8803e3ff21a37f24cbca4a3433e23af910250e974ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
-  <img src="https://camo.githubusercontent.com/8d2dde0f614101199d98e4331ca4f349ea994437190dae63353a1823929e95da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" />
-  <img src="https://camo.githubusercontent.com/85ad2777e5bbb8c8a52fc808d297b3d5b3a931849e4a2a68a5b40f9fb23c45e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d77686974" />
-  <img style="float: right; margin-left: 1rem;"  src="https://camo.githubusercontent.com/8290ef49e85a94c2ae9f929badf5aa1007b74d20f3f465c9222205064147bfa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</div>
 
+---
 
+## 📌 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Foco em **Front-end** e aplicações interativas  
+- 🎨 Gosto de UI moderna, efeitos visuais e UX bem trabalhado  
+- 🚀 Sempre buscando evoluir e aprender novas tecnologias  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: *adicione seu link aqui*
+- Portfólio: *adicione seu link aqui*
+
+---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrieljcoutinho.Portifolio)
-
-
-</div>
-
-
-
