@@ -74,3 +74,14 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrieljcoutinho.Portifolio)
+
+
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/snake.svg" alt="Snake animation" />
+</p>
+
