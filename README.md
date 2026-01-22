@@ -25,13 +25,6 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📫 Contato
-
-- LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
-- Portfólio: *https://portofolio-gabriel.vercel.app/*
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
@@ -88,6 +81,13 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://img.shields.io/badge/API-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </div>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
+- Portfólio: *https://portofolio-gabriel.vercel.app/*
 
 ---
 
