@@ -5,8 +5,6 @@ Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formaç�
 Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos voltados para desenvolvimento web e aplicações interativas.
 </p>
 
----
-
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -22,6 +20,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
 </div>
 
 ---
