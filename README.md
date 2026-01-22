@@ -7,10 +7,21 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ## 📌 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação  
-- 💻 Foco em **Front-end** e aplicações interativas  
-- 🎨 Gosto de UI moderna, efeitos visuais e UX bem trabalhado  
-- 🚀 Sempre buscando evoluir e aprender novas tecnologias  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Estudante de Ciência da Computação</li>
+        <li>💻 Foco em <strong>Front-end</strong> e aplicações interativas</li>
+        <li>🎨 Gosto de UI moderna, efeitos visuais e UX bem trabalhado</li>
+        <li>🚀 Sempre buscando evoluir e aprender novas tecnologias</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/88d342dd-5ea0-4f9e-aec6-e49e4f379a90" width="200px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -18,7 +29,6 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 - LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
 - Portfólio: *https://portofolio-gabriel.vercel.app/*
-
 
 ---
 
@@ -28,7 +38,6 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
-
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -48,7 +57,6 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 </div>
 
 ---
-
 
 ## 📜 Certificações DIO
 
@@ -72,21 +80,16 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-
-
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </div>
 
 ---
-
 
 ## 🐍 Minhas contribuições
 
@@ -94,10 +97,4 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/snake.svg" alt="Snake animation" />
 </p>
 
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrieljcoutinho.Portifolio)
-
-
-
----
-
