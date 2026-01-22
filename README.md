@@ -5,6 +5,31 @@ Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formaç�
 Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos voltados para desenvolvimento web e aplicações interativas.
 </p>
 
+## 📌 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Foco em **Front-end** e aplicações interativas  
+- 🎨 Gosto de UI moderna, efeitos visuais e UX bem trabalhado  
+- 🚀 Sempre buscando evoluir e aprender novas tecnologias  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
+- Portfólio: *https://portofolio-gabriel.vercel.app/*
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+
+---
+
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -25,12 +50,21 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+## 📜 Certificações DIO
 
+<div align="center">
+  <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="100" alt="Certificado DIO">
 
+  <img src="https://" width="100" alt="Certificado DIO">
+  <img src="https://" width="100" alt="Certificado DIO">
+  <img src="https://" width="100" alt="Certificado DIO">
+  <img src="https://" width="100" alt="Certificado DIO">
+  <img src="https://" width="100" alt="Certificado DIO">
+  <img src="https://" width="100" alt="Certificado DIO">
+  <img src="https://" width="100" alt="Certificado DIO">
+  
+</div>
 
 ---
 
@@ -56,31 +90,17 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📌 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação  
-- 💻 Foco em **Front-end** e aplicações interativas  
-- 🎨 Gosto de UI moderna, efeitos visuais e UX bem trabalhado  
-- 🚀 Sempre buscando evoluir e aprender novas tecnologias  
-
----
-
-## 📫 Contato
-
-- LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
-- Portfólio: *https://portofolio-gabriel.vercel.app/*
-
----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrieljcoutinho.Portifolio)
-
-
-
----
 
 ## 🐍 Minhas contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/snake.svg" alt="Snake animation" />
 </p>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrieljcoutinho.Portifolio)
+
+
+
+---
 
