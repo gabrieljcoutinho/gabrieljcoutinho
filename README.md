@@ -18,7 +18,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/88d342dd-5ea0-4f9e-aec6-e49e4f379a90" width="200px" />
+      <img src="https://github.com/user-attachments/assets/2bb30826-0185-426b-92ba-bcbd3fd64b02" width="200px" />
     </td>
   </tr>
 </table>
