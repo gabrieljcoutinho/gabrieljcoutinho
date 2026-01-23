@@ -2,7 +2,7 @@
 
 <p align="center">
 Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formação, apaixonado por tecnologia, interfaces modernas e experiências interativas.  
-Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos voltados para desenvolvimento web e aplicações interativas.
+Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos voltados para desenvolvimento web e aplicações interativas
 </p>
 
 ## 📌 Sobre mim
