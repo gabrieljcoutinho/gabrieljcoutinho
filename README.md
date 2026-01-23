@@ -87,7 +87,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ## 📫 Contato
 
-- LinkedIn: *https://www.linkedin.com/in/gabriel-jorge-coutinho/*
+[![LinkedIn](https://img.shields.io/badge/Gabriel_Jorge-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jorge-coutinho/)
 - Portfólio: *https://portofolio-gabriel.vercel.app/*
 
 ---
