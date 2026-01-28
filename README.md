@@ -1,4 +1,4 @@
-Teste <h2 align="center">Olá 👋! Bem-vindo ao meu GitHub</h2> a
+ <h2 align="center">Olá 👋! Bem-vindo ao meu GitHub</h2> 
 
 <p align="center">
 Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formação, apaixonado por tecnologia, interfaces modernas e experiências interativas.  
