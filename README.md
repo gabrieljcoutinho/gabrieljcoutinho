@@ -1,4 +1,4 @@
-reesfev o cdigo tod com pelto proem na aprte de tecnolofia e fermaentas as imgs estoa uma embaxo da outra naqouero iso quero uam do lado da outr: <h2 align="center">Olá 👋! Bem-vindo ao meu GitHub</h2>
+ <h2 align="center">Olá 👋! Bem-vindo ao meu GitHub</h2>
 
 <p align="center">
 Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formação, apaixonado por tecnologia, interfaces modernas e experiências interativas.  
