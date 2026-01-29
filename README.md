@@ -5,7 +5,7 @@ Sou <strong>Gabriel Jorge Coutinho</strong>, desenvolvedor Front-end em formaç�
 Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos voltados para desenvolvimento web e aplicações interativas
 </p>
 
-<p>Curiosidade: Tenho mais de 280 miniprojetos e componentes salvos aqui no meu GitHub. Eles funcionam como meu laboratório pessoal de UI/UX e uma biblioteca de consulta rápida para o meu dia a dia. </p>
+<p>Curiosidade: Tenho mais de 300 miniprojetos e componentes salvos aqui no meu GitHub. Eles funcionam como meu laboratório pessoal de UI/UX e uma biblioteca de consulta rápida para o meu dia a dia. </p>
 
 
 ## 📌 Sobre mim
