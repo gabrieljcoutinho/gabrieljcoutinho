@@ -7,7 +7,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 <p>Curiosidade: Tenho mais de 300 miniprojetos e componentes salvos aqui no meu GitHub. Eles funcionam como meu laboratório pessoal de UI/UX e uma biblioteca de consulta rápida para o meu dia a dia. </p>
 
-## Pastas
+## Pastas Principais
 <table width="100%">
   <tr>
     <td width="50%">
