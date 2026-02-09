@@ -8,17 +8,24 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 <p>Curiosidade: Tenho mais de 300 miniprojetos e componentes salvos aqui no meu GitHub. Eles funcionam como meu laboratório pessoal de UI/UX e uma biblioteca de consulta rápida para o meu dia a dia. </p>
 
 ## Pastas
-
-> <a href="https://github.com/stars/gabrieljcoutinho/lists/alura-imersao">Imersões Alura</a>
-<br/>
-
-> <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">Projetos</a>
-<br/>
-
-> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">Telas de carregamento</a>
-<br/>
-
-> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-login">Telas de Login / Cadastro</a>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/alura-imersao">Imersões Alura</a> </blockquote>
+    </td>
+    <td width="50%">
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">Projetos</a> </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">Telas de carregamento</a> </blockquote>
+    </td>
+    <td>
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-login">Telas de Login / Cadastro</a> </blockquote>
+    </td>
+  </tr>
+</table>
 
 ## 📌 Sobre mim
 
