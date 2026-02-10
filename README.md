@@ -11,7 +11,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 <table width="100%">
   <tr>
     <td width="50%">
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/alura-imersao" target="_blanck">Imersões Alura</a> </blockquote>
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/alura-imersao" target="_blank">Imersões Alura</a> </blockquote>
     </td>
     <td width="50%">
       <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">Projetos</a> </blockquote>
