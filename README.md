@@ -10,21 +10,21 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ## Pastas Principais
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="33.3%">
       <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/alura-imersao" target="_blank">Imersões Alura</a> </blockquote>
     </td>
-    <td width="50%">
+    <td width="33.3%">
       <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">Projetos</a> </blockquote>
+    </td>
+    <td width="33.3%">
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">Telas de carregamento</a> </blockquote>
     </td>
   </tr>
   <tr>
     <td>
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">Telas de carregamento</a> </blockquote>
-    </td>
-    <td>
       <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-login">Telas de Login</a> </blockquote>
     </td>
-   <td>
+    <td>
       <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/botoes">Botões</a> </blockquote>
     </td>
     <td>
