@@ -25,7 +25,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
       <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-login">Telas de Login</a> </blockquote>
     </td>
    <td>
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/botoes">Estilos Botões</a> </blockquote>
+      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/botoes">Botões</a> </blockquote>
     </td>
   </tr>
 </table>
