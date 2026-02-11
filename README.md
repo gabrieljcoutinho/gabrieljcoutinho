@@ -49,7 +49,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-beryl-two-57.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" height="170" />
+<img src="https://github-readme-stats-beryl-two-57.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2" height="170" />
 <img src="https://github-readme-stats-beryl-two-57.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=radical&hide_border=true&langs_count=20&include_all_commits=true&count_private=true&v=10" height="220" />
 </p>
 
