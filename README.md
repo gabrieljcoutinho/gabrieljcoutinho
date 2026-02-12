@@ -86,14 +86,14 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ## 📜 Certificações DIO
 
 <div align="center">
-  <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/N7kcBLxCrdRJnZI9V-H-IhQNlPB1ACBAuOjpzCx_Hfk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjE5NDViMGYtNjA5OC00OTcxLThiZDYtYWVhOGYxYzNhYzk3LnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/VlCVQg3lJ4XeNOWEBqk1tsHUnvN6dFKmk_Cu9pgxeL4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMmY1MzkxYmYtZDE3ZS00ZjQzLWFiZjEtMjAwMTRkMmJmYjkxLnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/PWxmG7yqz43mucMHgTpDboTvVPiBg5sM1TDdC7AGo8k/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvODk3ZDBjNDQtOGQ3Mi00YTg2LTg2YWQtZGIyMjQzZjFjNmU3LnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/4HO0M2iIeKATjdCAzEpPLqFGkPaHZj-AL89LHR5yx1Q/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNWQyYzJjMWEtN2JjZC00YmYyLTlmYWYtODI5NWQ2MGY5YjA0LnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/M4SNf7jAvp_JpzAO_ByqRMnReLFFUWe54thnu2R6r1U/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNGIzZTBlNmMtMjhhYS00MjQwLTkwY2EtMDBjZTY5ODRhYzNmLnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/_Xbo6zEsuzjaLFgQNIetFvlGpz1264Jb4YujkQ5mzW8/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNmY2N2Y1MjYtMGVlZS00YzBkLTllZTEtNzdiNDQ0ZTNiNTQ0LnBuZw" width="100" alt="Certificado DIO">
-  <img src="https://assets.dio.me/K1Ef_0sUuFp2klp36hkgepL1oV2jN-02QhLqQAoK5wg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzIyN2YyMzQtZjcyZS00YmQ3LTk5OTctZWRjNDMwOTdlM2U2LnBuZw" width="100" alt="Certificado DIO">
+  <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/N7kcBLxCrdRJnZI9V-H-IhQNlPB1ACBAuOjpzCx_Hfk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjE5NDViMGYtNjA5OC00OTcxLThiZDYtYWVhOGYxYzNhYzk3LnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/VlCVQg3lJ4XeNOWEBqk1tsHUnvN6dFKmk_Cu9pgxeL4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMmY1MzkxYmYtZDE3ZS00ZjQzLWFiZjEtMjAwMTRkMmJmYjkxLnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/PWxmG7yqz43mucMHgTpDboTvVPiBg5sM1TDdC7AGo8k/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvODk3ZDBjNDQtOGQ3Mi00YTg2LTg2YWQtZGIyMjQzZjFjNmU3LnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/4HO0M2iIeKATjdCAzEpPLqFGkPaHZj-AL89LHR5yx1Q/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNWQyYzJjMWEtN2JjZC00YmYyLTlmYWYtODI5NWQ2MGY5YjA0LnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/M4SNf7jAvp_JpzAO_ByqRMnReLFFUWe54thnu2R6r1U/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNGIzZTBlNmMtMjhhYS00MjQwLTkwY2EtMDBjZTY5ODRhYzNmLnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/_Xbo6zEsuzjaLFgQNIetFvlGpz1264Jb4YujkQ5mzW8/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNmY2N2Y1MjYtMGVlZS00YzBkLTllZTEtNzdiNDQ0ZTNiNTQ0LnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/K1Ef_0sUuFp2klp36hkgepL1oV2jN-02QhLqQAoK5wg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzIyN2YyMzQtZjcyZS00YmQ3LTk5OTctZWRjNDMwOTdlM2U2LnBuZw" width="80" alt="Certificado DIO">
 </div>
 
 ---
