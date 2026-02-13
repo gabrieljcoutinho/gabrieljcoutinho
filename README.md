@@ -83,7 +83,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📜 Certificações DIO
+## 📜 Medalhas DIO
 
 <div align="center">
   <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="80" alt="Certificado DIO">
