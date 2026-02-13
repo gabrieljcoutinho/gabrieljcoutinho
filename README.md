@@ -94,6 +94,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://assets.dio.me/M4SNf7jAvp_JpzAO_ByqRMnReLFFUWe54thnu2R6r1U/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNGIzZTBlNmMtMjhhYS00MjQwLTkwY2EtMDBjZTY5ODRhYzNmLnBuZw" width="80" alt="Certificado DIO">
   <img src="https://assets.dio.me/_Xbo6zEsuzjaLFgQNIetFvlGpz1264Jb4YujkQ5mzW8/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNmY2N2Y1MjYtMGVlZS00YzBkLTllZTEtNzdiNDQ0ZTNiNTQ0LnBuZw" width="80" alt="Certificado DIO">
   <img src="https://assets.dio.me/K1Ef_0sUuFp2klp36hkgepL1oV2jN-02QhLqQAoK5wg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzIyN2YyMzQtZjcyZS00YmQ3LTk5OTctZWRjNDMwOTdlM2U2LnBuZw" width="80" alt="Certificado DIO">
+   <img src="https://assets.dio.me/WTDD-cl3xWf3tJWssgcjjTk7mEd-AoTxi2lJovoiRFg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTViZmVhNjYtZDczYy00MzQyLTg3ZDctM2YzNTQxZWYxZjQwLnBuZw" width="80" alt="Certificado DIO">
 </div>
 
 ---
