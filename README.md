@@ -7,32 +7,6 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 <p>Curiosidade: Tenho mais de 300 miniprojetos e componentes salvos aqui no meu GitHub. Eles funcionam como meu laboratório pessoal de UI/UX e uma biblioteca de consulta rápida para o meu dia a dia. </p>
 
-## Pastas Principais
-<table width="100%">
-  <tr>
-    <td width="33.3%">
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/alura-imersao" target="_blank">Imersões Alura</a> </blockquote>
-    </td>
-    <td width="33.3%">
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">Projetos</a> </blockquote>
-    </td>
-    <td width="33.3%">
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">Telas de carregamento</a> </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-login">Telas de Login</a> </blockquote>
-    </td>
-    <td>
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/botoes">Botões</a> </blockquote>
-    </td>
-    <td>
-      <blockquote> <a href="https://github.com/stars/gabrieljcoutinho/lists/chat-leyout">Chat</a> </blockquote>
-    </td>
-  </tr>
-</table>
-
 ## 📌 Sobre mim
 
 <table>
