@@ -50,6 +50,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="DIO Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma Logo" />
+  <img src="https://camo.githubusercontent.com/2ff1136ac2dc4ff98e920882cb8fc3f648295c2b55b8d13c6018142267e50803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6963726f736f667473716c7365727665722f6d6963726f736f667473716c7365727665722d706c61696e2e737667" height="40" alt="Figma Logo" />
 
 <div align="left">
  
