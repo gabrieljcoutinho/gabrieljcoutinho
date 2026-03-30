@@ -34,6 +34,15 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 </p>
 
 ---
+##  Melhores Projetos
+
+<p align="center">
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">
+    <img src="https://img.shields.io/badge/⭐ Ver%20Meus%20Melhores%20Projetos-ff4757?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
