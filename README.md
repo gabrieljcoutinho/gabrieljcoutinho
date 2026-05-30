@@ -7,16 +7,16 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 <p>Curiosidade: Tenho mais de 300 miniprojetos e componentes salvos aqui no meu GitHub. Eles funcionam como meu laboratório pessoal de UI/UX e uma biblioteca de consulta rápida para o meu dia a dia. </p>
 
-## 📌 Sobre mim
+##  Sobre mim
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🎓 Estudante de Ciência da Computação</li>
-        <li>💻 Foco em <strong>Front-end</strong> e aplicações interativas</li>
-        <li>🎨 Gosto de UI moderna, efeitos visuais e UX bem trabalhado</li>
-        <li>🚀 Sempre buscando evoluir e aprender novas tecnologias</li>
+        <li> Estudante de Ciência da Computação</li>
+        <li>Foco em <strong>Front-end</strong> e aplicações interativas</li>
+        <li> Gosto de UI moderna, efeitos visuais e UX bem trabalhado</li>
+        <li> Sempre buscando evoluir e aprender novas tecnologias</li>
       </ul>
     </td>
     <td>
@@ -27,7 +27,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats-beryl-two-57.vercel.app/api?username=gabrieljcoutinho&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" height="170" />
 <img src="https://github-readme-stats-beryl-two-57.vercel.app/api/top-langs/?username=gabrieljcoutinho&layout=compact&theme=radical&hide_border=true&langs_count=20&include_all_commits=true&count_private=true&v=1" height="220" />
@@ -44,7 +44,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -67,7 +67,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📜 Medalhas DIO
+##  Medalhas DIO
 
 <div align="center">
   <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="80" alt="Certificado DIO">
@@ -83,7 +83,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 🛠️ Stack & Ecossistema
+##  Stack & Ecossistema
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -101,14 +101,14 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📫 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/Gabriel_Jorge-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jorge-coutinho/)
 - Portfólio: *https://portofolio-gabriel.vercel.app/*
 
 ---
 
-## 🐍 Minhas contribuições
+##  Minhas contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/snake.svg" alt="Snake animation" />
