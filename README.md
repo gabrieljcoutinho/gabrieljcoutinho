@@ -70,20 +70,21 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ##  Medalhas DIO
 
 <div align="center">
-  <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/N7kcBLxCrdRJnZI9V-H-IhQNlPB1ACBAuOjpzCx_Hfk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjE5NDViMGYtNjA5OC00OTcxLThiZDYtYWVhOGYxYzNhYzk3LnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/VlCVQg3lJ4XeNOWEBqk1tsHUnvN6dFKmk_Cu9pgxeL4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMmY1MzkxYmYtZDE3ZS00ZjQzLWFiZjEtMjAwMTRkMmJmYjkxLnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/PWxmG7yqz43mucMHgTpDboTvVPiBg5sM1TDdC7AGo8k/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvODk3ZDBjNDQtOGQ3Mi00YTg2LTg2YWQtZGIyMjQzZjFjNmU3LnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/4HO0M2iIeKATjdCAzEpPLqFGkPaHZj-AL89LHR5yx1Q/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNWQyYzJjMWEtN2JjZC00YmYyLTlmYWYtODI5NWQ2MGY5YjA0LnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/M4SNf7jAvp_JpzAO_ByqRMnReLFFUWe54thnu2R6r1U/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNGIzZTBlNmMtMjhhYS00MjQwLTkwY2EtMDBjZTY5ODRhYzNmLnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/_Xbo6zEsuzjaLFgQNIetFvlGpz1264Jb4YujkQ5mzW8/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNmY2N2Y1MjYtMGVlZS00YzBkLTllZTEtNzdiNDQ0ZTNiNTQ0LnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/K1Ef_0sUuFp2klp36hkgepL1oV2jN-02QhLqQAoK5wg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzIyN2YyMzQtZjcyZS00YmQ3LTk5OTctZWRjNDMwOTdlM2U2LnBuZw" width="80" alt="Certificado DIO">
-   <img src="https://assets.dio.me/WTDD-cl3xWf3tJWssgcjjTk7mEd-AoTxi2lJovoiRFg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTViZmVhNjYtZDczYy00MzQyLTg3ZDctM2YzNTQxZWYxZjQwLnBuZw" width="80" alt="Certificado DIO">
- <img src="https://assets.dio.me/KYvTOKbLDXjBDC8EjHnwpLdfX-ohWeI2rjowM4q0OOE/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvZmVlOGIxMGUtYTJmZi00YWI0LTg0NTAtOThlOTFlNmZmZGU1LnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/YUxSc74XOBfojhAZWAv9FmZGlWX-ETKmBO9UrcRBrgk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMjgyMzg1NTgtNGM5Yy00MTdkLWJmOGUtYzkwNGJhNWVkNTUzLnBuZw" width="80" alt="Certificado DIO">
-   <img src="https://assets.dio.me/6PtwprYRfEYWH7XzvICCJh3359ZBtNmbmXjtQbgQxC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvOTQ4ZDlkNzItMzBjMy00MDNhLTk4NzItNmFhYjcxNGIyOTY2LnBuZw" width="80" alt="Certificado DIO">
-  <img src="https://assets.dio.me/U4u5b-rKTa4xyH6HWyCYA0jTKgvuuVw9jRSA4gkEh4c/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvN2E4NjMxOWMtNTU5YS00YmI3LWIyMjEtZjAxOGY0ZDBmZmRmLnBuZw" width="80" alt="Certificado DIO">
- <img src="https://assets.dio.me/Ea-VL6paKR5Vf48DveKVIf1IcgbInKCXSQ0A183mzjg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMWJhYmJhNTctY2FmNS00NmI1LTllOWItZTk5MmE2MmY5MTBiLnBuZw" width="80" alt="Certificado DIO">
+  <img src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/N7kcBLxCrdRJnZI9V-H-IhQNlPB1ACBAuOjpzCx_Hfk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjE5NDViMGYtNjA5OC00OTcxLThiZDYtYWVhOGYxYzNhYzk3LnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/VlCVQg3lJ4XeNOWEBqk1tsHUnvN6dFKmk_Cu9pgxeL4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMmY1MzkxYmYtZDE3ZS00ZjQzLWFiZjEtMjAwMTRkMmJmYjkxLnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/PWxmG7yqz43mucMHgTpDboTvVPiBg5sM1TDdC7AGo8k/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvODk3ZDBjNDQtOGQ3Mi00YTg2LTg2YWQtZGIyMjQzZjFjNmU3LnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/4HO0M2iIeKATjdCAzEpPLqFGkPaHZj-AL89LHR5yx1Q/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNWQyYzJjMWEtN2JjZC00YmYyLTlmYWYtODI5NWQ2MGY5YjA0LnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/M4SNf7jAvp_JpzAO_ByqRMnReLFFUWe54thnu2R6r1U/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNGIzZTBlNmMtMjhhYS00MjQwLTkwY2EtMDBjZTY5ODRhYzNmLnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/_Xbo6zEsuzjaLFgQNIetFvlGpz1264Jb4YujkQ5mzW8/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNmY2N2Y1MjYtMGVlZS00YzBkLTllZTEtNzdiNDQ0ZTNiNTQ0LnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/K1Ef_0sUuFp2klp36hkgepL1oV2jN-02QhLqQAoK5wg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzIyN2YyMzQtZjcyZS00YmQ3LTk5OTctZWRjNDMwOTdlM2U2LnBuZw" width="70" alt="Certificado DIO">
+   <img src="https://assets.dio.me/WTDD-cl3xWf3tJWssgcjjTk7mEd-AoTxi2lJovoiRFg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTViZmVhNjYtZDczYy00MzQyLTg3ZDctM2YzNTQxZWYxZjQwLnBuZw" width="70" alt="Certificado DIO">
+ <img src="https://assets.dio.me/KYvTOKbLDXjBDC8EjHnwpLdfX-ohWeI2rjowM4q0OOE/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvZmVlOGIxMGUtYTJmZi00YWI0LTg0NTAtOThlOTFlNmZmZGU1LnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/YUxSc74XOBfojhAZWAv9FmZGlWX-ETKmBO9UrcRBrgk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMjgyMzg1NTgtNGM5Yy00MTdkLWJmOGUtYzkwNGJhNWVkNTUzLnBuZw" width="70" alt="Certificado DIO">
+   <img src="https://assets.dio.me/6PtwprYRfEYWH7XzvICCJh3359ZBtNmbmXjtQbgQxC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvOTQ4ZDlkNzItMzBjMy00MDNhLTk4NzItNmFhYjcxNGIyOTY2LnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/U4u5b-rKTa4xyH6HWyCYA0jTKgvuuVw9jRSA4gkEh4c/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvN2E4NjMxOWMtNTU5YS00YmI3LWIyMjEtZjAxOGY0ZDBmZmRmLnBuZw" width="70" alt="Certificado DIO">
+ <img src="https://assets.dio.me/Ea-VL6paKR5Vf48DveKVIf1IcgbInKCXSQ0A183mzjg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMWJhYmJhNTctY2FmNS00NmI1LTllOWItZTk5MmE2MmY5MTBiLnBuZw" width="70" alt="Certificado DIO">
+  <img src="https://assets.dio.me/rAADdmy3t8MC5wb7zRBXVJe6A0JhjY5Gi_8hJ3KBR9g/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvN2JjYThkNTktNzJmZi00ZTA0LWFmYTgtYjcyMzgzOGI1ZmY4LnBuZw" width="70" alt="Certificado DIO">
 </div>
 
 ---
