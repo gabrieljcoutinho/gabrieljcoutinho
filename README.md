@@ -29,26 +29,29 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## Melhores Projetos & Coleções
+## 📂 Melhores Projetos & Coleções
 
 <p align="center">
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">
+    <img src="https://img.shields.io/badge/PROJETOS-ff4757?style=for-the-badge" />
+  </a>
   <a href="https://github.com/stars/gabrieljcoutinho/lists/ia">
-    <img src="https://img.shields.io/badge/🤖%20IA-2ed573?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/IA-2ed573?style=for-the-badge" />
   </a>
   <a href="https://github.com/stars/gabrieljcoutinho/lists/agents">
-    <img src="https://img.shields.io/badge/🧠%20Agents-1e90ff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/AGENTS-1e90ff?style=for-the-badge" />
   </a>
   <a href="https://github.com/stars/gabrieljcoutinho/lists/cards">
-    <img src="https://img.shields.io/badge/🃏%20Cards-ffa502?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/CARDS-ffa502?style=for-the-badge" />
   </a>
   <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">
-    <img src="https://img.shields.io/badge/⏳%20Loaders-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOADERS-9b59b6?style=for-the-badge" />
   </a>
   <a href="https://github.com/stars/gabrieljcoutinho/lists/botao">
-    <img src="https://img.shields.io/badge/🔘%20Botões-3742fa?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/BOTÕES-3742fa?style=for-the-badge" />
   </a>
   <a href="https://github.com/stars/gabrieljcoutinho/lists/erro-404">
-    <img src="https://img.shields.io/badge/❌%20Erros%20404-ff6b81?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ERROS%20404-ff6b81?style=for-the-badge" />
   </a>
 </p>
 
@@ -110,7 +113,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.✨badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
