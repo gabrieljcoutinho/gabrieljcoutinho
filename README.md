@@ -32,27 +32,13 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ## 📂 Melhores Projetos & Coleções
 
 <p align="center">
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos">
-    <img src="https://img.shields.io/badge/PROJETOS-ff4757?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/ia">
-    <img src="https://img.shields.io/badge/IA-2ed573?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/agents">
-    <img src="https://img.shields.io/badge/AGENTS-1e90ff?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/cards">
-    <img src="https://img.shields.io/badge/CARDS-ffa502?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento">
-    <img src="https://img.shields.io/badge/LOADERS-9b59b6?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/botao">
-    <img src="https://img.shields.io/badge/BOTÕES-3742fa?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stars/gabrieljcoutinho/lists/erro-404">
-    <img src="https://img.shields.io/badge/ERROS%20404-ff6b81?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/projetos"><img src="https://img.shields.io/badge/PROJETOS-ff4757?style=for-the-badge" /></a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/ia"><img src="https://img.shields.io/badge/IA-2ed573?style=for-the-badge" /></a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/agents"><img src="https://img.shields.io/badge/AGENTS-1e90ff?style=for-the-badge" /></a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/cards"><img src="https://img.shields.io/badge/CARDS-ffa502?style=for-the-badge" /></a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/tela-de-carregamento"><img src="https://img.shields.io/badge/LOADERS-9b59b6?style=for-the-badge" /></a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/botao"><img src="https://img.shields.io/badge/BOTÕES-3742fa?style=for-the-badge" /></a>
+  <a href="https://github.com/stars/gabrieljcoutinho/lists/erro-404"><img src="https://img.shields.io/badge/ERROS%20404-ff6b81?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -66,21 +52,23 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 ---
 
 ##  Tecnologias & Ferramentas
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="JSON" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
- <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70" alt="DIO Logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma Logo" />
- <img src="https://camo.githubusercontent.com/2ff1136ac2dc4ff98e920882cb8fc3f648295c2b55b8d13c6018142267e50803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6963726f736f667473716c7365727665722f6d6963726f736f667473716c7365727665722d706c61696e2e737667" height="40" alt="SQL Server" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="JSON" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70" alt="DIO Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma Logo" />
+  <img src="https://camo.githubusercontent.com/2ff1136ac2dc4ff98e920882cb8fc3f648295c2b55b8d13c6018142267e50803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6963726f736f667473716c7365727665722f6d6963726f736f667473716c7365727665722d706c61696e2e737667" height="40" alt="SQL Server" />
+</p>
 
 ---
 
@@ -96,47 +84,4 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
   <img src="https://assets.dio.me/_Xbo6zEsuzjaLFgQNIetFvlGpz1264Jb4YujkQ5mzW8/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNmY2N2Y1MjYtMGVlZS00YzBkLTllZTEtNzdiNDQ0ZTNiNTQ0LnBuZw" width="70" alt="Certificado DIO">
   <img src="https://assets.dio.me/K1Ef_0sUuFp2klp36hkgepL1oV2jN-02QhLqQAoK5wg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzIyN2YyMzQtZjcyZS00YmQ3LTk5OTctZWRjNDMwOTdlM2U2LnBuZw" width="70" alt="Certificado DIO">
    <img src="https://assets.dio.me/WTDD-cl3xWf3tJWssgcjjTk7mEd-AoTxi2lJovoiRFg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTViZmVhNjYtZDczYy00MzQyLTg3ZDctM2YzNTQxZWYxZjQwLnBuZw" width="70" alt="Certificado DIO">
- <img src="https://assets.dio.me/KYvTOKbLDXjBDC8EjHnwpLdfX-ohWeI2rjowM4q0OOE/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvZmVlOGIxMGUtYTJmZi00YWI0LTg0NTAtOThlOTFlNmZmZGU1LnBuZw" width="70" alt="Certificado DIO">
-  <img src="https://assets.dio.me/YUxSc74XOBfojhAZWAv9FmZGlWX-ETKmBO9UrcRBrgk/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMjgyMzg1NTgtNGM5Yy00MTdkLWJmOGUtYzkwNGJhNWVkNTUzLnBuZw" width="70" alt="Certificado DIO">
-   <img src="https://assets.dio.me/6PtwprYRfEYWH7XzvICCJh3359ZBtNmbmXjtQbgQxC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvOTQ4ZDlkNzItMzBjMy00MDNhLTk4NzItNmFhYjcxNGIyOTY2LnBuZw" width="70" alt="Certificado DIO">
-  <img src="https://assets.dio.me/U4u5b-rKTa4xyH6HWyCYA0jTKgvuuVw9jRSA4gkEh4c/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvN2E4NjMxOWMtNTU5YS00YmI3LWIyMjEtZjAxOGY0ZDBmZmRmLnBuZw" width="70" alt="Certificado DIO">
- <img src="https://assets.dio.me/Ea-VL6paKR5Vf48DveKVIf1IcgbInKCXSQ0A183mzjg/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMWJhYmJhNTctY2FmNS00NmI1LTllOWItZTk5MmE2MmY5MTBiLnBuZw" width="70" alt="Certificado DIO">
-  <img src="https://assets.dio.me/rAADdmy3t8MC5wb7zRBXVJe6A0JhjY5Gi_8hJ3KBR9g/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvN2JjYThkNTktNzJmZi00ZTA0LWFmYTgtYjcyMzgzOGI1ZmY4LnBuZw" width="70" alt="Certificado DIO">
-   <img src="https://assets.dio.me/nWtjE5aI8Plqobm7ah2gauQp2yepurixNhEJJA3HWCQ/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvZmI5YmM1NWMtOTZiMi00ZjkxLTg2ZDAtN2IyYjAyYzRhZmJkLnBuZw" width="70" alt="Certificado DIO">
- <img src="https://assets.dio.me/ppJpZMRModtn_UZEYX87G50FYyVegN_Errak8-gbgl4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMWYxZWEzZTYtNjU5Ni00YmE4LWE5OTItZjg3ZGJiZGUyMGM3LnBuZw" width="70" alt="Certificado DIO">
-</div>
-
----
-
-##  Stack & Ecossistema
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-</div>
-
----
-
-##  Contato
-
-[![LinkedIn](https://img.shields.io/badge/Gabriel_Jorge-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jorge-coutinho/)
-- Portfólio: *https://portofolio-gabriel.vercel.app/*
-
----
-
-##  Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrieljcoutinho/gabrieljcoutinho/output/snake.svg" alt="Snake animation" />
-</p>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrieljcoutinho.Portifolio)
+ <img src="
