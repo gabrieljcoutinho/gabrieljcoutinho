@@ -29,7 +29,7 @@ Aqui você vai encontrar projetos em HTML, CSS, JavaScript, React e estudos volt
 
 ---
 
-## 📂 Melhores Projetos & Coleções
+## Melhores Projetos & Coleções
 
 <p align="center">
   <a href="https://github.com/stars/gabrieljcoutinho/lists/ia">
